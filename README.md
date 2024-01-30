@@ -14,8 +14,11 @@ as empresas a antecipar demandas futuras e a se adaptar rapidamente às mudança
 
 Erratas sobre o script:
 
-- O arquivo original era pesado demais para o upload no git, você pode baixar uma amostra do arquivo original e rodar o script tranquilamente e fazer as inferências necessárias;
-- 
+- O arquivo original era pesado demais para o upload no git, você pode baixar uma amostra do arquivo original e rodar o script tranquilamente fazendo as inferências necessárias;
+- Na célula de criação dos gráficos, falta um "r" no px.bar, o intuito é criar gráficos de barras, todavia, você pode alterar para
+histograma, ou qualquer outro tipo de gráfico que facilite a sua visualizaçao.
+
+
 
 
 
