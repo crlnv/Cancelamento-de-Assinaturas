@@ -19,6 +19,9 @@ Erratas sobre o script:
 histograma, ou qualquer outro tipo de gráfico que facilite a sua visualizaçao.
 
 
+**O relatório foi feito no Quarto (Rmarkdown), o script está disponível assim como também o arquivo PDF.**
+
+
 
 
 
